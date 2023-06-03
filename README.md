@@ -7,7 +7,7 @@ Easy Read will provide you with concise and accurate summaries.
 
 ### Article Summarization
 
-The core feature of our web app is the article summarization tool. Simply copy and paste the text of the article or provide the URL, and our advanced natural language processing algorithms will generate a summary for you. The summary will capture the main points, key ideas, and important details of the article, allowing you to quickly grasp the content without reading the entire document.
+This is the core feature of EasyRead AI. Simply copy and paste the URL of the article you want to summarize, and our advanced natural language processing algorithms will generate a summary for you. The summary will capture the main points, key ideas, and important details of the article, allowing you to quickly grasp the content without reading the entire document.
 
 ### History
 This feature allows previous searches to be stored in the local storage, making it easier for the user to summarise again in no time!
