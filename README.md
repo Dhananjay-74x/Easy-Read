@@ -1,13 +1,13 @@
 # Easy Read AI
 
-Welcome to Easy Read AI ! This website is designed to help you quickly generate summaries of articles.  Whether you're a student looking to save time on research or a professional trying to stay updated, 
+Welcome to Easy Read AI ! This web app is designed to help you quickly generate summaries of articles.  Whether you're a student looking to save time on research or a professional trying to stay updated, 
 Easy Read will provide you with concise and accurate summaries.
 
 ## Features
 
 ### Article Summarization
 
-The core feature of our website is the article summarization tool. Simply copy and paste the text of the article or provide the URL, and our advanced natural language processing algorithms will generate a summary for you. The summary will capture the main points, key ideas, and important details of the article, allowing you to quickly grasp the content without reading the entire document.
+The core feature of our web app is the article summarization tool. Simply copy and paste the text of the article or provide the URL, and our advanced natural language processing algorithms will generate a summary for you. The summary will capture the main points, key ideas, and important details of the article, allowing you to quickly grasp the content without reading the entire document.
 
 ### History
 This feature allows previous searches to be stored in the local storage, making it easier for the user to summarise again in no time!
