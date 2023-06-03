@@ -1,4 +1,4 @@
-# Easy Read AI
+# EasyRead AI
 
 Welcome to Easy Read AI ! This web app is designed to help you quickly generate summaries of articles.  Whether you're a student looking to save time on research or a professional trying to stay updated, 
 Easy Read will provide you with concise and accurate summaries.
